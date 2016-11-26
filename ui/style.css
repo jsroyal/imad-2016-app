@@ -21,3 +21,40 @@ body {
     height: 300px;
 }
 
+.demo-card-wide.mdl-card {
+  width: 812px;
+
+  margin:0 auto;
+
+  background-color: #F6F6F6;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background:'/ui/against.jpg';
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+#user-image{
+	width:100%;
+	height:100%;
+}
+
+img{
+	width:100%;
+	height:100%;
+}
+
+#introvert, #reading{
+	width:70%;
+	height:80%;
+
+}
+
+#gerrard{
+
+	height: 80%;
+	width : 100%;
+}
